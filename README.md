@@ -1,4 +1,4 @@
-# SuggestionApp
+# Suggestion Application (C#)
 
-
-The Suggestion application is designed to provide users with a platform for generating and managing suggestions. Whether it's gathering feedback from customers, ideas from team members, or recommendations from users, this application aims to streamline the suggestion process
+Overview
+The Suggestion application, built in C#, is a platform designed to streamline the process of generating and managing suggestions. It caters to various use cases, such as gathering customer feedback, ideas from team members, or user recommendations.
