@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34407.89
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuggestionAppUI", "SuggestionAppUI\SuggestionAppUI.csproj", "{9D751685-BCC7-408A-AB8B-6E532D6DC0C8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuggestionAppLibary", "SuggestionAppLibary\SuggestionAppLibary.csproj", "{BEAD9005-BCD2-4313-A02F-E3F8AC6ACB1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuggestionAppLibrary", "SuggestionAppLibrary\SuggestionAppLibrary.csproj", "{BEAD9005-BCD2-4313-A02F-E3F8AC6ACB1F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Soulution Items", "Soulution Items", "{A5E2F73D-D14D-4C53-A18F-B659C6D753EA}"
 	ProjectSection(SolutionItems) = preProject

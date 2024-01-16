@@ -1,4 +1,4 @@
-namespace SuggestionAppLibrary.DataAccess;
+namespace SuggestionAppLibary.DataAccess;
 
 public class DbConnection
 {
